@@ -1,4 +1,4 @@
-From mysql:latest
+From mysql:5.7-debian
 MAINTAINER Songjie Wang "wangso@missouri.edu"
 
 ARG DEBIAN_FRONTEND=noninteractive
